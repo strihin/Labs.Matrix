@@ -1,0 +1,110 @@
+C:\Users\Сергей\Desktop\Блочный метод\ЧМ\obj\x86\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\Блочный метод\ЧМ\obj\x86\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\Блочный метод\ЧМ\bin\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\Блочный метод\ЧМ\bin\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\Блочный метод\ЧМ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Блочный метод\ЧМ\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\Сергей\Desktop\Блочный метод\ЧМ\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Блочный метод\ЧМ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сергей\Desktop\Блочный метод\ЧМ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TEMP\Desktop\ЧМ\obj\x86\Debug\Блочный метод.exe
+C:\Users\TEMP\Desktop\ЧМ\obj\x86\Debug\Блочный метод.pdb
+C:\Users\TEMP\Desktop\ЧМ\bin\Debug\Блочный метод.exe
+C:\Users\TEMP\Desktop\ЧМ\bin\Debug\Блочный метод.pdb
+C:\Users\TEMP\Desktop\ЧМ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\ЧМ\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\TEMP\Desktop\ЧМ\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\TEMP\Desktop\ЧМ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TEMP\Desktop\ЧМ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Сергей\Desktop\Численные методы\ЧМ\obj\x86\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\Численные методы\ЧМ\obj\x86\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\Численные методы\ЧМ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Численные методы\ЧМ\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\Сергей\Desktop\Численные методы\ЧМ\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Численные методы\ЧМ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сергей\Desktop\Численные методы\ЧМ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Сергей\Desktop\Численные методы\ЧМ\bin\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\Численные методы\ЧМ\bin\Debug\Блочный метод.pdb
+C:\Users\TEMP.SAY\Desktop\ЧМ\obj\x86\Debug\Блочный метод.exe
+C:\Users\TEMP.SAY\Desktop\ЧМ\obj\x86\Debug\Блочный метод.pdb
+C:\Users\TEMP.SAY\Desktop\ЧМ\bin\Debug\Блочный метод.exe
+C:\Users\TEMP.SAY\Desktop\ЧМ\bin\Debug\Блочный метод.pdb
+C:\Users\TEMP.SAY\Desktop\ЧМ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.SAY\Desktop\ЧМ\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\TEMP.SAY\Desktop\ЧМ\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\TEMP.SAY\Desktop\ЧМ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TEMP.SAY\Desktop\ЧМ\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Численные методы\ЧМ\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Численные методы\ЧМ\obj\x86\Debug\Блочный_метод.Form1.resources
+D:\Численные методы\ЧМ\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+D:\Численные методы\ЧМ\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Численные методы\ЧМ\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Численные методы\ЧМ\bin\Debug\Блочный метод.exe
+D:\Численные методы\ЧМ\bin\Debug\Блочный метод.pdb
+D:\Численные методы\ЧМ\obj\x86\Debug\Блочный метод.exe
+D:\Численные методы\ЧМ\obj\x86\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\ЧМ\obj\x86\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\ЧМ\obj\x86\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\ЧМ\bin\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\ЧМ\bin\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\ЧМ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ЧМ\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\Сергей\Desktop\ЧМ\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\Сергей\Desktop\ЧМ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сергей\Desktop\ЧМ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TolokneevSA\Desktop\ЧМ\obj\x86\Debug\Блочный метод.exe
+C:\Users\TolokneevSA\Desktop\ЧМ\obj\x86\Debug\Блочный метод.pdb
+C:\Users\TolokneevSA\Desktop\ЧМ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TolokneevSA\Desktop\ЧМ\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\TolokneevSA\Desktop\ЧМ\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\TolokneevSA\Desktop\ЧМ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TolokneevSA\Desktop\ЧМ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TolokneevSA\Desktop\ЧМ\bin\Debug\Блочный метод.exe
+C:\Users\TolokneevSA\Desktop\ЧМ\bin\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\ЧМ_the last\obj\x86\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\ЧМ_the last\obj\x86\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\ЧМ_the last\bin\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\ЧМ_the last\bin\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\ЧМ_the last\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ЧМ_the last\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\Сергей\Desktop\ЧМ_the last\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\Сергей\Desktop\ЧМ_the last\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сергей\Desktop\ЧМ_the last\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TolokneevSA\Desktop\ЧМ_the last\obj\x86\Debug\Блочный метод.exe
+C:\Users\TolokneevSA\Desktop\ЧМ_the last\obj\x86\Debug\Блочный метод.pdb
+C:\Users\TolokneevSA\Desktop\ЧМ_the last\bin\Debug\Блочный метод.exe
+C:\Users\TolokneevSA\Desktop\ЧМ_the last\bin\Debug\Блочный метод.pdb
+C:\Users\TolokneevSA\Desktop\ЧМ_the last\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TolokneevSA\Desktop\ЧМ_the last\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\TolokneevSA\Desktop\ЧМ_the last\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\TolokneevSA\Desktop\ЧМ_the last\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TolokneevSA\Desktop\ЧМ_the last\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LysenkoAS\Documents\ЧМ_the last\ЧМ_the last\obj\x86\Debug\Блочный метод.exe
+C:\Users\LysenkoAS\Documents\ЧМ_the last\ЧМ_the last\obj\x86\Debug\Блочный метод.pdb
+C:\Users\LysenkoAS\Documents\ЧМ_the last\ЧМ_the last\bin\Debug\Блочный метод.exe
+C:\Users\LysenkoAS\Documents\ЧМ_the last\ЧМ_the last\bin\Debug\Блочный метод.pdb
+C:\Users\LysenkoAS\Documents\ЧМ_the last\ЧМ_the last\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LysenkoAS\Documents\ЧМ_the last\ЧМ_the last\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\LysenkoAS\Documents\ЧМ_the last\ЧМ_the last\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\LysenkoAS\Documents\ЧМ_the last\ЧМ_the last\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LysenkoAS\Documents\ЧМ_the last\ЧМ_the last\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TolokneevSA.SAY\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный метод.exe
+C:\Users\TolokneevSA.SAY\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный метод.pdb
+C:\Users\TolokneevSA.SAY\Desktop\ЧМ_the lastest\ЧМ_the last\bin\Debug\Блочный метод.exe
+C:\Users\TolokneevSA.SAY\Desktop\ЧМ_the lastest\ЧМ_the last\bin\Debug\Блочный метод.pdb
+C:\Users\TolokneevSA.SAY\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TolokneevSA.SAY\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\TolokneevSA.SAY\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\TolokneevSA.SAY\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TolokneevSA.SAY\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TolokneevSA\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный метод.exe
+C:\Users\TolokneevSA\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный метод.pdb
+C:\Users\TolokneevSA\Desktop\ЧМ_the lastest\ЧМ_the last\bin\Debug\Блочный метод.exe
+C:\Users\TolokneevSA\Desktop\ЧМ_the lastest\ЧМ_the last\bin\Debug\Блочный метод.pdb
+C:\Users\TolokneevSA\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TolokneevSA\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\TolokneevSA\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\TolokneevSA\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TolokneevSA\Desktop\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный метод.exe
+F:\ЧМ_the lastest\ЧМ_the last\obj\x86\Debug\Блочный метод.pdb

@@ -1,0 +1,18 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\Блочный метод\Блочный метод\bin\Debug\Блочный метод.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\Блочный метод\Блочный метод\bin\Debug\Блочный метод.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\Блочный метод\Блочный метод\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\Блочный метод\Блочный метод\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\Блочный метод\Блочный метод\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\Блочный метод\Блочный метод\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\Блочный метод\Блочный метод\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\Блочный метод\Блочный метод\obj\x86\Debug\Блочный метод.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\Блочный метод\Блочный метод\obj\x86\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\Блочный метод\Блочный метод\obj\x86\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\Блочный метод\Блочный метод\obj\x86\Debug\Блочный метод.pdb
+C:\Users\Сергей\Desktop\Блочный метод\Блочный метод\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Блочный метод\Блочный метод\obj\x86\Debug\Блочный_метод.Form1.resources
+C:\Users\Сергей\Desktop\Блочный метод\Блочный метод\obj\x86\Debug\Блочный_метод.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Блочный метод\Блочный метод\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сергей\Desktop\Блочный метод\Блочный метод\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Сергей\Desktop\Блочный метод\Блочный метод\bin\Debug\Блочный метод.exe
+C:\Users\Сергей\Desktop\Блочный метод\Блочный метод\bin\Debug\Блочный метод.pdb
